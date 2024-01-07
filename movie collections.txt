@@ -1,0 +1,41 @@
+<dir>
+  <title>Starwars</title>
+  <trakt>https://api.trakt.tv/users/michelo98/lists/star-wars/items</trakt>
+ <thumbnail>https://</thumbnail>
+	<fanart>https://</fanart>
+</dir>
+
+<dir>
+  <title>Startreck (cannon)</title>
+  <trakt>https://api.trakt.tv/users/dgw/lists/star-trek-canon/items</trakt>
+ <thumbnail>https://</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Marvel</title>
+  <trakt>https://api.trakt.tv/users/donxy/lists/marvel-cinematic-universe/items</trakt>
+ <thumbnail>https://</thumbnail>
+	<fanart>https://</fanart>
+</dir>
+
+<dir>
+  <title>DC Univers</title>
+  <trakt>https://api.trakt.tv/users/tetharion/lists/dc-universe/items</trakt>
+ <thumbnail>https://</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>X Files</title>
+  <trakt>https://api.trakt.tv/users/travisg100/lists/the-essential-x-files-episodes/items</trakt>
+ <thumbnail>https://</thumbnail>
+	<fanart>https://</fanart>
+</dir>
+
+<dir>
+  <title>Superhero Movies</title>
+  <trakt>https://api.trakt.tv/users/hdlists/lists/superhero-movies-from-1980-to-today/items</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>

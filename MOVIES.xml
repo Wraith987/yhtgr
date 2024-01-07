@@ -1,0 +1,108 @@
+ <dir>
+    <title>TMDB Zone</title>
+    <link>https://pastebin.com/raw/dQv29HVG</link>
+  </dir> 
+<dir>
+    <title>IMDB Top 250 (IMDB)</title>
+    <trakt>https://api.trakt.tv/users/zephir/lists/imdb-top-250-movies/items</trakt>
+  </dir>
+ 
+ <dir>
+    <title>Trending Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/movies/trending</trakt>
+  </dir>
+ 
+ <dir>
+    <title>In Theatres (MDBList)</title>
+    <trakt>https://api.trakt.tv/users/james-redfern/lists/in-theatres/items?limit=20&sort=added,asc</trakt>
+  </dir>
+ 
+<dir>
+    <title>Most Favourited Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/movies/favorited/weekly</trakt>
+  </dir>
+ 
+ <dir>
+    <title>Anticipated Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/movies/anticipated</trakt>
+  </dir>
+ 
+ <dir>
+    <title>Popular Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/users/noveggies/lists/hot-popular-movies-group-tmdb-trakt-imdb/items</trakt>
+  </dir>
+ 
+ <dir>
+    <title>Recommended Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/movies/recommended</trakt>
+  </dir>
+ 
+ <dir>
+    <title>Most Played Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/movies/played</trakt>
+  </dir>
+ 
+ <dir>
+    <title>Most Collected Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/movies/collected</trakt>
+  </dir>
+ 
+<dir>
+    <title>Most Voted Movies (IMDB)</title>
+    <trakt>https://api.trakt.tv/users/kartana/lists/most-imdb-votes-since-2015/items</trakt>
+  </dir>
+ 
+ <dir>
+    <title>Boxoffice (TRAKT)</title>
+    <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+  </dir>
+ 
+<dir>
+    <title>Oscar Nominees 2023 (IMDB)</title>
+    <trakt>https://api.trakt.tv/users/pullsa/lists/the-95th-academy-awards-oscars-2023/items</trakt>
+  </dir>
+
+<dir>
+    <title>Progress Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/sync/playback/movies?limit=20</trakt>
+  </dir>
+ 
+<dir>
+    <title>Netflix Movies</title>
+    <trakt>https://api.trakt.tv/users/garycrawfordgc/lists/netflix-movies/items</trakt>
+  </dir>
+ 
+<dir>
+    <title>Disney Plus Movies</title>
+    <trakt>https://api.trakt.tv/users/ceefaxer/lists/disney-plus-movies-b489db0d-6aa9-4025-b33f-ba9f5890bfdd/items</trakt>
+  </dir>
+ 
+<dir>
+    <title>Amazon Movies</title>
+    <trakt>https://api.trakt.tv/users/plexmetamanager/lists/amazon-movies/items</trakt>
+  </dir>
+ 
+<dir>
+    <title>Christmas Movies (TRAKT)</title>
+    <trakt>https://api.trakt.tv/users/hdlists/lists/christmas-movies/items</trakt>
+  </dir>
+ 
+<dir>
+    <title>Collections</title>
+    <link>https://pastebin.com/raw/PjYhpW7m</link>
+  </dir>
+ 
+ <dir>
+    <title>Genres (TMDB)</title>
+    <link>https://pastebin.com/raw/jBYrGnpQ</link>
+  </dir>
+ 
+ <dir>
+    <title>Genres (IMDB)</title>
+    <link>https://</link>
+  </dir>
+ 
+ <dir>
+    <title>Search Movies</title>
+    <tmdb>search/movies</tmdb>
+  </dir>

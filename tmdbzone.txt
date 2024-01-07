@@ -1,0 +1,37 @@
+<dir>
+  <title>Upcoming</title>
+  <tmdb>movie/upcoming</tmdb>
+ <thumbnail>https://i.imgur.com/DN9Iohq.png</thumbnail>
+	<fanart>https://i.imgur.com/7Q9WadF.jpg</fanart>
+</dir>
+
+<dir>
+<title>Popular</title>
+<tmdb>movies/popular</tmdb>
+<thumbnail>https://i.imgur.com/DN9Iohq.png</thumbnail>
+<fanart>https://i.imgur.com/7Q9WadF.jpg</fanart>
+</dir>
+
+<dir>
+<title>Now Playing</title>
+<tmdb>movies/now_playing</tmdb>
+<thumbnail>https://i.imgur.com/DN9Iohq.png</thumbnail>
+<fanart>https://i.imgur.com/7Q9WadF.jpg</fanart>
+</dir>
+
+<dir>
+<title>Top Rated</title>
+<tmdb>movies/top_rated</tmdb>
+<thumbnail>https://i.imgur.com/DN9Iohq.png</thumbnail>
+<fanart>https://i.imgur.com/7Q9WadF.jpg</fanart>
+</dir>
+
+<dir>
+<title>Top 250 Movies List (TMDB)</title>
+<tmdb>list/634</tmdb>
+</dir>
+
+<dir>
+<title>2023 Movies (TMDB)</title>
+<tmdb>year/movie/2023</tmdb>
+</dir>
