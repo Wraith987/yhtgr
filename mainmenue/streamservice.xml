@@ -1,0 +1,34 @@
+<dir>
+  <title>BritBox</title>
+  <trakt>https://api.trakt.tv/users/asmobarki/lists/britbox/items?limit=40&sort=popularity,asc</trakt>
+ <thumbnail>https://payload.cargocollective.com/1/17/559552/14144392/prt_500x500_1597243949.jpg</thumbnail>
+	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+  <title>Netflix</title>
+  <trakt>https://api.trakt.tv/users/pierredurrr/lists/netflix/items?limit=40</trakt>
+ <thumbnail>https://static-00.iconduck.com/assets.00/netflix-icon-icon-1024x1024-w4ni4f6d.png</thumbnail>
+	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+  <title>Disney Plus</title>
+  <trakt>https://api.trakt.tv/users/evilhidden/lists/disney-plus/items?limit=40&sort=rank,asc</trakt>
+ <thumbnail>https://cdn.icon-icons.com/icons2/2657/PNG/256/disney_plus_icon_161064.png</thumbnail>
+	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+  <title>Amazon Prime</title>
+  <trakt>https://api.trakt.tv/users/rafster/lists/amazon-prime/items?limit=40</trakt>
+ <thumbnail>https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png</thumbnail>
+	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+  <title>Paramount+</title>
+  <trakt>https://api.trakt.tv/users/tdatum/lists/paramount/items?limit=40</trakt>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/2560px-Paramount_Plus.svg.png</thumbnail>
+	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
+</dir>
