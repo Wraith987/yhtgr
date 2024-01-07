@@ -1,0 +1,13 @@
+<dir>
+  <title>Stand Up Comedy</title>
+  <trakt>https://trakt.tv/users/giladg/lists/stand-up-comedy?limit=40&sort=added,asc</trakt>
+ <thumbnail></thumbnail>
+	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+  <title>Stand Up Comedy (Free Or RD)</title>
+  <link>https://raw.githubusercontent.com/Wraith987/yhtgr/main/mainmenue/stand.xml</link>
+ <thumbnail></thumbnail>
+	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
+</dir>
