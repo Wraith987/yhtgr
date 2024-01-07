@@ -7,7 +7,7 @@
 
 <dir>
   <title>4K Movies</title>
-  <trakt>https://api.trakt.tv/users/faunlock/lists/4k/items?limit=40&sort=rank,asc</trakt>
+  <trakt>https://api.trakt.tv/users/faunlock/lists/4k/items?limit=40&sort=popularity,asc</trakt>
  <thumbnail></thumbnail>
 	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
 </dir>
