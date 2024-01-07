@@ -1,6 +1,6 @@
 <dir>
   <title>Stand Up Comedy</title>
-  <trakt>https://api.trakt.tv/users/giladg/lists/stand-up-comedy?limit=40&sort=added,asc</trakt>
+  <trakt>https://api.trakt.tv/users/giladg/lists/stand-up-comedy/items?limit=40&sort=added,asc</trakt>
  <thumbnail></thumbnail>
 	<fanart>https://github.com/Wraith987/media/blob/main/entityblank.png</fanart>
 </dir>
