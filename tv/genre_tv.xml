@@ -1,0 +1,95 @@
+<dir>
+	<title>Action & Adventure</title>
+	<tmdb>genre/shows/10759</tmdb>
+ <thumbnail>https://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Action-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Animation</title>
+	<tmdb>genre/shows/16</tmdb>
+ <thumbnail>https://icons.iconarchive.com/icons/limav/movie-genres-folder/256/Animation-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Comedy</title>
+	<tmdb>genre/shows/35</tmdb>
+ <thumbnail>https://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Comedy-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Crime</title>
+	<tmdb>genre/shows/80</tmdb>
+ <thumbnail>https://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Crime-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Documentary</title>
+	<tmdb>genre/shows/99</tmdb>
+  <thumbnail>https://icons.iconarchive.com/icons/limav/movie-genres-folder/256/Documentary-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Drama</title>
+	<tmdb>genre/shows/18</tmdb>
+  <thumbnail>https://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Drama-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Family</title>
+	<tmdb>genre/shows/10751</tmdb>
+  <thumbnail>https://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Family-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Kids</title>
+	<tmdb>genre/shows/10762</tmdb>
+</dir>
+
+<dir>
+	<title>Mystery</title>
+	<tmdb>genre/shows/9648</tmdb>
+ <thumbnail>https://icons.iconarchive.com/icons/limav/movie-genres-folder/256/Mystery-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>News</title>
+	<tmdb>genre/shows/10763</tmdb>
+</dir>
+
+<dir>
+	<title>Reality</title>
+	<tmdb>genre/shows/10764</tmdb>
+</dir>
+
+<dir>
+	<title>Sci-Fi & Fantasy</title>
+	<tmdb>genre/shows/10765</tmdb>
+<thumbnail>https://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/SciFi-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Soap</title>
+	<tmdb>genre/shows/10766</tmdb>
+</dir>
+
+<dir>
+	<title>War & Politics</title>
+	<tmdb>genre/shows/10768</tmdb>
+ <thumbnail>https://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/War-icon.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/Wraith987/media/main/entityblank.png</fanart>
+</dir>
+
+<dir>
+	<title>Western</title>
+	<tmdb>genre/shows/37</tmdb>
+</dir>
+

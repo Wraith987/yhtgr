@@ -1,0 +1,137 @@
+<dir>
+  <title>Returning Tv Shows (IMDB)</title>
+  <trakt>https://api.trakt.tv/users/kalvo12/lists/tv-shows-returning/items</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Trending TV Shows (TRAKT)</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Anticipated Tv Shows (TRAKT)</title>
+  <trakt>https://api.trakt.tv/shows/anticipated</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Popular Tv Shows (TRAKT)</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Popular TV Shows (TMDB)</title>
+  <tmdb>tv/popular</tmdb>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+ 
+<dir>
+  <title>Most Popular TV Shows (IMDB)</title>
+  <trakt>https://api.trakt.tv/users/justin/lists/imdb-popular-tv-shows/items</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+ 
+<dir>
+  <title>Top Rated TV Shows (TMDB)</title>
+  <tmdb>top_rated</tmdb>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+ 
+<dir>
+  <title>Top 250 Shows (IMDB)</title>
+  <trakt>https://api.trakt.tv/users/salemdono/lists/imdb-top-250-tv-shows/items</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Recommended TV Shows (TRAKT)</title>
+  <trakt>https://api.trakt.tv/shows/recommended</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Most Played TV Shows (TRAKT)</title>
+  <trakt>https://api.trakt.tv/shows/played</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+ 
+<dir>
+  <title>Most Collected TV Shows (TRAKT)</title>
+  <trakt>https://api.trakt.tv/shows/collected/weekly</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Top Rated Tv Shows (IMDB)</title>
+  <trakt>https://api.trakt.tv/users/ckerry/lists/imdb-top-rated-tv-shows/items</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Netflix Shows</title>
+  <tmdb>network/tv/213</tmdb>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+ 
+<dir>
+  <title>BritBox</title>
+  <trakt>https://api.trakt.tv/users/plexmetamanager/lists/britbox-shows/items</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Disney plus</title>
+  <trakt>https://api.trakt.tv/users/spoonys/lists/disney-tv-shows/items</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Progress Shows</title>
+  <trakt>https://api.trakt.tv/sync/playback/episodes?limit=40</trakt>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Genres (TMDB)</title>
+  <link>https://pastebin.com/raw/wjujWfxb</link>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Networks (TMDB)</title>
+  <link>https://pastebin.com/raw/S38qmTDV</link>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Search Tv Shows</title>
+  <tmdb>search/tv</tmdb>
+ <thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
