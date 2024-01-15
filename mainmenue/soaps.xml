@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <items>
+    <title>Eastenders, Corrie, Emmerdale</title>
+    <type>plugin</type>
+    <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=owner:HdOneTv</link>
+  </items>
+  <items>
+    <title>Eastenders, Corrie, Emmerdale</title>
+    <type>plugin</type>
+    <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=owner:HightlightSelect247</link>
+  </items>
+  <items>
+    <title>Eastenders, Corrie, Hollyoaks</title>
+    <type>plugin</type>
+    <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=user:TvSoap</link>
+  </items>
+  <items>
+    <title>Eastenders, Corrie, Hollyoaks</title>
+    <type>plugin</type>
+    <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=user:Soap4K</link>
+  </items>
+</root>
