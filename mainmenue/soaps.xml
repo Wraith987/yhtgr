@@ -4,3 +4,17 @@
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
+
+<plugin>
+    <title>LNTv2</title>
+    <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=user:TvSoap</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</plugin>
+
+<plugin>
+    <title>LNTv3</title>
+    <link>plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=user:Soap4K</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</plugin>
