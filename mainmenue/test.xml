@@ -1,0 +1,84 @@
+<item>
+<title>[COLORwhite]SkySports Arena[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/skyarena/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+<sublink>http://</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]SkySports MainEvent[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/eplayerskymain2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]SkySports PremierLeague[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/eplayerSKYPL/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]SkySports Football[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/eplayerskyfoot/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]SkySportsCricket[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/eplayerskycric/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]SkySportsGolf[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/skygolf/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]TNT Sports1[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/eplayerdigitvbt1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+<sublink>https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8</sublink>
+</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]TNT Sports2[/COLOR]</title>
+<link>
+<sublink>https://01-24.webhd.ru/fls/eplayerdigitvbt2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://player.webhd.ru/</sublink>
+<sublink>https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8</sublink>
+</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]TNT Sports 3[/COLOR]</title>
+<link>
+<sublink>https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8</sublink>
+</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
